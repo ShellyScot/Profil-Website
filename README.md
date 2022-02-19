@@ -1,3 +1,3 @@
 # Profil-Website
 <p align="center">
-   <img src="20220220_041908.png">
+   <img src="https://raw.githubusercontent.com/ShellyScot/Profil-Website/master/img/20220220_041908.png" width=1000>
